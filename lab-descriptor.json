@@ -35,7 +35,7 @@
       "name": "Message Authentication Codes",
       "short-name": "message-authentication-codes",
       "repo": "https://github.com/virtual-labs/exp-message-authentication-codes-iiith",
-      "tag": "v1.0.2",
+      "tag": "v1.0.3",
       "deploy": true
     },
     {
@@ -49,7 +49,7 @@
       "name": "Symmetric Key Encryption Standards (DES)",
       "short-name": "des",
       "repo": "https://github.com/virtual-labs/exp-des-iiith",
-      "tag": "v1.0.1",
+      "tag": "v1.0.2",
       "deploy": true
     },
     {
@@ -63,14 +63,14 @@
       "name": "Diffie-Hellman Key Establishment",
       "short-name": "diffie-hellman",
       "repo": "https://github.com/virtual-labs/exp-diffie-hellman-iiith",
-      "tag": "v1.0.1",
+      "tag": "v1.0.2",
       "deploy": true
     },
     {
       "name": "Public-Key Cryptosystems (PKCSv1.5)",
       "short-name": "pkcs",
       "repo": "https://github.com/virtual-labs/exp-pkcs-iiith",
-      "tag": "v1.0.1",
+      "tag": "v1.0.2",
       "deploy": true
     },
     {
@@ -97,5 +97,5 @@
   },
   "exp_name": "Digital Signatures",
   "exp_short_name": "digital-signatures",
-  "version": "v0.4.0"
+  "version": "v0.5.0"
 }
