@@ -1,10 +1,11 @@
 {
   "broadArea": {
     "name": "Computer Science and Engineering",
-    "link": "https://www.vlab.co.in/broad-area-computer-science-and-engineering"
+    "link": "https://www.vlab.co.in/broad-area-computer-science-and-engineering",
+    "code": "CSE"
   },
   "lab": "Cryptography",
-  "deployLab": true,
+  "lab_display_name": "Cryptography",
   "phase": 2,
   "collegeName": "IIITH",
   "baseUrl": "cse29-iiith.vlabs.ac.in",
@@ -94,8 +95,5 @@
     "universities": [
       "This laboratory is alligned with an introductory course on Cryptography"
     ]
-  },
-  "exp_name": "Digital Signatures",
-  "exp_short_name": "digital-signatures",
-  "version": "v0.5.0"
+  }
 }
