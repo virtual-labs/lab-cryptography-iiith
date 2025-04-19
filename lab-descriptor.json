@@ -57,7 +57,7 @@
       "name": "Symmetric Key Encryption Standards (AES)",
       "short-name": "aes",
       "repo": "https://github.com/virtual-labs/exp-aes-iiith",
-      "tag": "v1.0.1",
+      "tag": "v1.0.2",
       "deploy": true
     },
     {
